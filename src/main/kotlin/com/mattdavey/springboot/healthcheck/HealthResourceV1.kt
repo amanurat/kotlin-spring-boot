@@ -1,4 +1,4 @@
-package com.mattdavey.springboot.api
+package com.mattdavey.springboot.healthcheck
 
 import com.fasterxml.jackson.annotation.JsonCreator
 import org.springframework.web.bind.annotation.RequestMapping

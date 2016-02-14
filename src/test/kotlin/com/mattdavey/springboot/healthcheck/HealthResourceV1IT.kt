@@ -1,4 +1,4 @@
-package com.mattdavey.springboot.api
+package com.mattdavey.springboot.healthcheck
 
 import com.mattdavey.springboot.Application
 import org.assertj.core.api.Assertions.assertThat
